@@ -118,6 +118,26 @@ body {
   background-image: url("img/icon-css.svg");
 }
 
+.skill-python {
+  background-image: url("img/icon-python.svg");
+  background-size: 38px;
+}
+
+.skill-js {
+  background-image: url("img/icon-js.svg");
+  background-size: 25px;
+}
+
+.skill-cpp {
+  background-image: url("img/icon-cpp.svg");
+  background-size: 25px;
+}
+
+.skill-dart {
+  background-image: url("img/icon-dart.svg");
+  background-size: 25px;
+}
+
 .level {
   margin: 4px 0 16px;
   padding: 0;
