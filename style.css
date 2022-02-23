@@ -36,6 +36,8 @@ body {
   background-position: left;
 }
 
+
+
 .header-email {
   padding-left: 30px;
   background-image: url("img/icon-email-header.svg");
@@ -85,6 +87,11 @@ body {
 .user-image {
   margin: 0 0 32px;
   text-align: center;
+}
+
+.my-photo {
+  height: 700px;
+  width: auto;
 }
 
 .intro h3,
